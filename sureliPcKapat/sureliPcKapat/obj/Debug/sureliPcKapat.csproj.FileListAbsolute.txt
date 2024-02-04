@@ -1,0 +1,10 @@
+C:\Users\excalibur\Desktop\Projeler\sureliPcKapat\sureliPcKapat\bin\Debug\sureliPcKapat.exe.config
+C:\Users\excalibur\Desktop\Projeler\sureliPcKapat\sureliPcKapat\bin\Debug\sureliPcKapat.exe
+C:\Users\excalibur\Desktop\Projeler\sureliPcKapat\sureliPcKapat\bin\Debug\sureliPcKapat.pdb
+C:\Users\excalibur\Desktop\Projeler\sureliPcKapat\sureliPcKapat\obj\Debug\sureliPcKapat.csproj.AssemblyReference.cache
+C:\Users\excalibur\Desktop\Projeler\sureliPcKapat\sureliPcKapat\obj\Debug\sureliPcKapat.Form1.resources
+C:\Users\excalibur\Desktop\Projeler\sureliPcKapat\sureliPcKapat\obj\Debug\sureliPcKapat.Properties.Resources.resources
+C:\Users\excalibur\Desktop\Projeler\sureliPcKapat\sureliPcKapat\obj\Debug\sureliPcKapat.csproj.GenerateResource.cache
+C:\Users\excalibur\Desktop\Projeler\sureliPcKapat\sureliPcKapat\obj\Debug\sureliPcKapat.csproj.CoreCompileInputs.cache
+C:\Users\excalibur\Desktop\Projeler\sureliPcKapat\sureliPcKapat\obj\Debug\sureliPcKapat.exe
+C:\Users\excalibur\Desktop\Projeler\sureliPcKapat\sureliPcKapat\obj\Debug\sureliPcKapat.pdb
