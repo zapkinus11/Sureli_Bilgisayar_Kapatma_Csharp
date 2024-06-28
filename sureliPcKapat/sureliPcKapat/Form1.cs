@@ -16,9 +16,8 @@ namespace sureliPcKapat
         public Form1()
         {
             InitializeComponent();
+            dkAyarlama.Maximum = 129600; //max kapatma süresi 90 gün
         }
-        
-
         private void btnOnayla_Click(object sender, EventArgs e)
         {
             if(dkAyarlama.Value>0)
@@ -36,7 +35,6 @@ namespace sureliPcKapat
                 MessageBox.Show("Kullanıcı problemli hata!", "Büyük Hata!", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
-
         private void btnCancel_Click(object sender, EventArgs e)
         {
             if(dkAyarlama.Value > 0)
@@ -53,7 +51,6 @@ namespace sureliPcKapat
                 MessageBox.Show("Lütfen süre seçimi yapınız!", "Hata!", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
-
         private void btnCikis_Click(object sender, EventArgs e)
         {
             string pcAdi = Environment.MachineName;
